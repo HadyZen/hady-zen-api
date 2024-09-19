@@ -1,1 +1,126 @@
-
+[
+  {
+    "nama": "ach",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ach.js"
+  },
+  {
+    "nama": "ai",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ai.js"
+  },
+  {
+    "nama": "bing",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js"
+  },
+  {
+    "nama": "bot",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bot.js"
+  },
+  {
+    "nama": "daily",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/daily.js"
+  },
+  {
+    "nama": "ffc",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ffc.js"
+  },
+  {
+    "nama": "fish",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/fish.js"
+  },
+  {
+    "nama": "gemini",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gemini.js"
+  },
+  {
+    "nama": "gpt",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gpt.js"
+  },
+  {
+    "nama": "gpt4",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gpt4.js"
+  },
+  {
+    "nama": "imgbb",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/imgbb.js"
+  },
+    {
+    "nama": "imgbb2",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/imgbb2.js"
+  },
+  {
+    "nama": "kerang",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/kerang.js"
+  },
+  {
+    "nama": "maintain",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/maintain.js"
+  },
+  {
+    "nama": "menu",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js"
+  },
+  {
+    "nama": "pair",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/pair.js"
+  },
+  {
+    "nama": "pay",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/pay.js"
+  },
+  {
+    "nama": "quote",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/quote.js"
+  },
+  {
+    "nama": "math",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/math.js"
+  },
+  {
+    "nama": "rand",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/rand.js"
+  },
+  {
+    "nama": "redeem",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/redeem.js"
+  },
+  {
+    "nama": "report",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/report.js"
+  },
+  {
+    "nama": "stach",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setach.js"
+  },
+  {
+    "nama": "setn",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setn.js"
+  },
+  {
+    "nama": "setpp",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setpp.js"
+  },
+  {
+    "nama": "sett",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/sett.js"
+  },
+  {
+    "nama": "spin",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/spin.js"
+  },
+  {
+    "nama": "status",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/status.js"
+  },
+  {
+    "nama": "tr",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/tr.js"
+  },
+  { 
+    "nama": "top", 
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/top.js"
+  }, 
+  {
+    "nama": "uptime",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/uptime.js"
+  }
+]
