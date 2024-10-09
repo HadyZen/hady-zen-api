@@ -1,40 +1,42 @@
-[{
-  nama: "Claris",
-  id: "001",
-  bint: "✦✧✧✧", 
-  harga: 7,
-  dropRate: 90,
-  card: "https://i.ibb.co/rdrwk2B/hady-zen.jpg"
-},
- {
-  nama: "Chase",
-  id: "002",
-  bint: "✦✦✧✧", 
-  harga: 9,
-  dropRate: 98,
-  card: "https://i.ibb.co/vjMLJdj/hady-zen.jpg"
-},
-{
-  nama: "",
-  id: "",
-  bint: "", 
-  harga: ,
-  dropRate: ,
-  card: ""
-},
-{
-  nama: "",
-  id: "",
-  bint: "", 
-  harga: ,
-  dropRate: ,
-  card: ""
-},
-{
-  nama: "",
-  id: "",
-  bint: "", 
-  harga: ,
-  dropRate: ,
-  card: ""
-}]
+[
+  {
+    "nama": "Claris",
+    "id": "001",
+    "bint": "✦✧✧✧",
+    "harga": 7,
+    "dropRate": 90,
+    "card": "https://i.ibb.co/rdrwk2B/hady-zen.jpg"
+  },
+  {
+    "nama": "Chase",
+    "id": "002",
+    "bint": "✦✦✧✧",
+    "harga": 9,
+    "dropRate": 98,
+    "card": "https://i.ibb.co/vjMLJdj/hady-zen.jpg"
+  },
+  {
+    "nama": "",
+    "id": "",
+    "bint": "",
+    "harga": null,
+    "dropRate": null,
+    "card": ""
+  },
+  {
+    "nama": "",
+    "id": "",
+    "bint": "",
+    "harga": null,
+    "dropRate": null,
+    "card": ""
+  },
+  {
+    "nama": "",
+    "id": "",
+    "bint": "",
+    "harga": null,
+    "dropRate": null,
+    "card": ""
+  }
+]
