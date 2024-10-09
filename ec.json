@@ -1,10 +1,10 @@
 [{
-  nama: "",
-  id: "",
-  bint: "", 
-  harga: ,
-  dropRate: ,
-  card: ""
+  nama: "Claris",
+  id: "001",
+  bint: "✦✧✧✧", 
+  harga: 7,
+  dropRate: 90,
+  card: "https://i.ibb.co/rdrwk2B/hady-zen.jpg"
 },
  {
   nama: "",
