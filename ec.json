@@ -28,7 +28,7 @@
     "id": "004",
     "bint": "✦✦✦✧",
     "harga": 13,
-    "dropRate": 10,
+    "dropRate": 60,
     "card": "https://i.ibb.co/B6K4pgs/hady-zen.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "id": "009",
     "bint": "✦✦✦✧",
     "harga": 13,
-    "dropRate": 10,
+    "dropRate": 60,
     "card": "https://i.ibb.co/S7DcS77/hady-zen.jpg"
   },
   {
@@ -92,7 +92,7 @@
     "id": "012",
     "bint": "✦✦✦✧",
     "harga": 13,
-    "dropRate": 10,
+    "dropRate": 60,
     "card": "https://i.ibb.co/0MBw80Z/hady-zen.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "id": "013",
     "bint": "✦✦✦✧",
     "harga": 13,
-    "dropRate": 10,
+    "dropRate": 60,
     "card": "https://i.ibb.co/CJmY4BH/hady-zen.jpg"
   },
   {
@@ -124,7 +124,7 @@
     "id": "016",
     "bint": "✦✦✦✧",
     "harga": 13,
-    "dropRate": 10,
+    "dropRate": 60,
     "card": "https://i.ibb.co/4s2Bf1v/hady-zen.jpg"
   },
   {
@@ -156,7 +156,7 @@
     "id": "020",
     "bint": "✦✦✦✧",
     "harga": 14,
-    "dropRate": 8,
+    "dropRate": 58,
     "card": "https://i.ibb.co/Qf44Sgy/hady-zen.jpg"
   }
 ]
