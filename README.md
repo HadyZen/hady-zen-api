@@ -1,4 +1,5 @@
-![Itsuki](https://i.ibb.co/sPWYKKX/448604404-1111634999930806-6165592303705221416-n-jpg-nc-cat-101-ccb-1-7-nc-sid-9f807c-nc-eui2-Ae-EXz.jpg) 
+![gotoubun](https://i.ibb.co/Mn82cxm/hady-zen.jpg) 
+![ec2] (https://i.ibb.co/1JbkkTn/hady-zen.jpg) 
 
 kumpulan json untuk api by hady zen <br />
 kamu bebas mengambil cmd tersebut tapi jangan mengganti author nya, hargailah pembuat cmd nya yang telah membagikan cmd gratis untuk kamu! 🥀
@@ -7,6 +8,7 @@ kamu bebas mengambil cmd tersebut tapi jangan mengganti author nya, hargailah pe
 # Develover
 - Nama: Hadi pranata <br />
 - Facebook: https://facebook.com/hady.zen.in <br />
+- Whatsapp: 081262360170 <br />
 - Grup: https://m.me/j/AbahWyr2SgCmw6k4/ <br />
 - Grup: https://facebook.com/share/kfnXuCmdzFY6zuxg/ 
 
