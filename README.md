@@ -8,7 +8,7 @@
 # Develover
 - Nama: Hadi pranata <br />
 - Facebook: https://facebook.com/hady.zen.in <br />
-- Whatsapp: <button class="copy-button" onclick="copy('081262260170')">𝟬𝟴𝟭𝟮𝟲𝟮𝟮𝟲𝟬𝟭𝟳𝟬</button> <br />
+- Whatsapp: https://wa.me/qr/274FOINUBS6KH1 <br />
 - Grup: https://m.me/j/AbahWyr2SgCmw6k4/ <br />
 - Grup: https://facebook.com/share/kfnXuCmdzFY6zuxg/ 
 
