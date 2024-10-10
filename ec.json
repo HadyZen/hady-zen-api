@@ -56,6 +56,30 @@
     "card": "https://i.ibb.co/W0KSLP8/hady-zen.jpg"
   },
   {
+    "nama": "Lime",
+    "id": "008",
+    "bint": "✦✧✧✧",
+    "harga": 7,
+    "dropRate": 90,
+    "card": "https://i.ibb.co/F7cxT3Z/hady-zen.jpg"
+  },
+  {
+    "nama": "Erika",
+    "id": "009",
+    "bint": "✦✦✦✧",
+    "harga": 13,
+    "dropRate": 10,
+    "card": "https://i.ibb.co/S7DcS77/hady-zen.jpg"
+  },
+  {
+    "nama": "",
+    "id": "",
+    "bint": "",
+    "harga": null,
+    "dropRate": null,
+    "card": ""
+  },
+  {
     "nama": "",
     "id": "",
     "bint": "",
