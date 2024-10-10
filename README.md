@@ -2,9 +2,8 @@
 ![gotoubun](https://i.ibb.co/Mn82cxm/hady-zen.jpg) 
 ![ec2](https://i.ibb.co/1JbkkTn/hady-zen.jpg) 
 
-kumpulan json untuk api by hady zen <br />
-kamu bebas mengambil cmd tersebut tapi jangan mengganti author nya, hargailah pembuat cmd nya yang telah membagikan cmd gratis untuk kamu! 🥀
-
+> kumpulan json untuk api by hady zen <br />
+> kamu bebas mengambil cmd tersebut tapi jangan mengganti author nya, hargailah pembuat cmd nya yang telah membagikan cmd gratis untuk kamu! 🥀
 
 # Develover
 - Nama: Hadi pranata <br />
