@@ -72,12 +72,44 @@
     "card": "https://i.ibb.co/S7DcS77/hady-zen.jpg"
   },
   {
-    "nama": "",
-    "id": "",
-    "bint": "",
-    "harga": null,
-    "dropRate": null,
-    "card": ""
+    "nama": "Will",
+    "id": "010",
+    "bint": "✦✧✧✧",
+    "harga": 7,
+    "dropRate": 90,
+    "card": "https://i.ibb.co/JqnyFqy/hady-zen.jpg"
+  },
+  {
+    "nama": "Nina",
+    "id": "011",
+    "bint": "✦✧✧✧",
+    "harga": 7,
+    "dropRate": 90,
+    "card": "https://i.ibb.co/PwBK1ct/hady-zen.jpg"
+  },
+  {
+    "nama": "Marlene",
+    "id": "012",
+    "bint": "✦✦✦✧",
+    "harga": 13,
+    "dropRate": 10,
+    "card": "https://i.ibb.co/0MBw80Z/hady-zen.jpg"
+  },
+  {
+    "nama": "Jessie",
+    "id": "013",
+    "bint": "✦✦✦✧",
+    "harga": 13,
+    "dropRate": 10,
+    "card": "https://i.ibb.co/CJmY4BH/hady-zen.jpg"
+  },
+  {
+    "nama": "Louisa",
+    "id": "014",
+    "bint": "✦✦✦✦",
+    "harga": 18,
+    "dropRate": 1,
+    "card": "https://i.ibb.co/kyDYchZ/hady-zen.jpg"
   },
   {
     "nama": "",
