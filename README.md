@@ -13,4 +13,4 @@ kamu bebas mengambil cmd tersebut tapi jangan mengganti author nya, hargailah pe
 - Grup: https://m.me/j/AbahWyr2SgCmw6k4/ <br />
 - Grup: https://facebook.com/share/kfnXuCmdzFY6zuxg/ 
 
-# itsuki Nakano
+# ©Hady Zen 
