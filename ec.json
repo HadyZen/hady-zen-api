@@ -112,12 +112,28 @@
     "card": "https://i.ibb.co/kyDYchZ/hady-zen.jpg"
   },
   {
-    "nama": "",
-    "id": "",
-    "bint": "",
-    "harga": null,
-    "dropRate": null,
-    "card": ""
+    "nama": "Elze",
+    "id": "015",
+    "bint": "✦✦✦✦",
+    "harga": 18,
+    "dropRate": 1,
+    "card": "https://i.ibb.co/MPNkTWX/hady-zen.jpg"
+  },
+  {
+    "nama": "Marduk",
+    "id": "016",
+    "bint": "✦✦✦✧",
+    "harga": 13,
+    "dropRate": 10,
+    "card": "https://i.ibb.co/4s2Bf1v/hady-zen.jpg"
+  },
+  {
+    "nama": "Miria",
+    "id": "017",
+    "bint": "✦✦✦✦",
+    "harga": 18,
+    "dropRate": 1,
+    "card": "https://i.ibb.co/C6ZYHpK/hady-zen.jpg"
   },
   {
     "nama": "",
