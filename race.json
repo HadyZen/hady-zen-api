@@ -1,0 +1,12 @@
+[
+  { "race": "Kami", "dropRate": 98 },
+  { "race": "Akuma", "dropRate": 90 },
+  { "race": "Ryū", "dropRate": 80 },
+  { "race": "Seirei", "dropRate": 70 },
+  { "race": "Kyūketsuki", "dropRate": 60 },
+  { "race": "Jinrō", "dropRate": 40 },
+  { "race": "Mahōtsukai", "dropRate": 20 },
+  { "race": "Kyojin", "dropRate": 12 },
+  { "race": "Yōsei", "dropRate": 6 },
+  { "race": "Ningen", "dropRate": 1 }
+]
